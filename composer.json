@@ -1,0 +1,12 @@
+{
+  "name": "ITBundles/ITCoreBundle",
+  "type": "symfony-bundle",
+  "description": "Core bundle for ITBundles administration",
+  "license": "MIT",
+  "require": {
+    "php": "^7.1"
+  },
+  "autoload": {
+    "psr-4": { "ITBundles\\ITCoreBundle\\": "" }
+  }
+}
