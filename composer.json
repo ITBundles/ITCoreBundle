@@ -1,5 +1,5 @@
 {
-  "name": "ITBundles/ITCoreBundle",
+  "name": "itbundles/itcorebundle",
   "type": "symfony-bundle",
   "description": "Core bundle for ITBundles administration",
   "license": "MIT",
